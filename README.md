@@ -1,6 +1,6 @@
 # miniZ
 ## Support
-Official website: https://miniz.ch
+Official website: https://miniz.cc
 
 Twitter: https://twitter.com/miniZ_miner
 
